@@ -4,3 +4,4 @@ function generate()
     const a = document.getElementById('wordphrase');
     a.innerHTML = result;
 }
+generate();
