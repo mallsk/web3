@@ -1,0 +1,19 @@
+body{
+    padding-top:50px;
+    background-color: rgb(18, 18, 18);
+    color:whitesmoke;
+}
+h2{
+    padding-bottom:20px;
+}
+button{
+    background-color: black;
+    color:whitesmoke;
+    height:40px;
+    border-color:whitesmoke;
+    border-radius:10px;
+    font-weight:bold;
+}
+p{
+    color:orange;
+}
